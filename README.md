@@ -1,5 +1,5 @@
 # BulkMultiLauncher
-<image href ="url-icon.png"> </image>
+<image src ="url-icon.png"> </image>
 This is a bookmark launcher used to Launch all the desired bookmarks by the user in your default web browser.
 This creates a button to create a bookmarks folder and then excel files inside of it
 
